@@ -1,2 +1,2 @@
-# MVCwithWebAPI_Multihreading
+# MVCwithWebAPI Multihreading
 MVC with WebAPI Included Multithreading
